@@ -133,6 +133,6 @@ def adding_to_dennis
         }
      }
      
-     array = programmer_hash[:dennis_ritchie][:languages]
+     programmer_hash[:dennis_ritchie][:languages]
 
 end
